@@ -4,11 +4,7 @@
 - 🖥️ Cursando Análise e Desenvolvimento de Sitemas no UNIFAA (1/4).
 - 🏠 Valença/RJ.
 
-<div align="center">
-  <a href="https://github.com/PauloHenriqueFaa">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PauloHenriqueFaa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHenriqueFaa&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
 
 ### Aprendendo:
   
